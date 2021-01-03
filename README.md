@@ -1,0 +1,2 @@
+# KNN-classifier
+Computation of Iris Dataset using kNN algorithm  The datasets for iris and the k-nearest neighbour classifier have been imported from the famous Scikit-learn library.  The algorithm finds the euclidean distance between the input points and the dataset points and makes predictions as to which species will the input value(flower) belong to.  Categorises the input parameters ( Sepal length,width || Petal length,width ) into the corresponding species ( Setosa, Versicolor and Virginica )
